@@ -90,7 +90,7 @@ body {
 width: 200px; 
 height: 200px;
 border-radius: 50%;
-border: 5px solid 	rgba(255,165,0,0.8);
+border: 5px solid rgba(0, 0, 255, 0.5);
 position: relative;
 margin: 22px ;
 animation: rotate 20s linear infinite;
